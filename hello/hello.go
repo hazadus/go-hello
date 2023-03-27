@@ -28,3 +28,8 @@ func main() {
 		fmt.Println(i)
 	}
 }
+
+// PrintNumber writes a `number` to the console.
+func PrintNumber(number int) {
+	fmt.Println(number)
+}
