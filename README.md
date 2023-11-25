@@ -13,6 +13,7 @@ Here I learn the Go language.
   Using Golang](https://doi.org/10.1007/978-1-4842-7355-5) by Adam Freeman, ISBN 978-1-4842-7355-5, 2022, 1078 p.
 - [The Go Programming Language Specification](https://go.dev/ref/spec) - This is the reference manual for the Go programming language.
 - [Effective Go](https://go.dev/doc/effective_go) - This document gives tips for writing clear, idiomatic Go code.
+- [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments).
 
 ## Compiler commands
 
