@@ -1,4 +1,4 @@
-# Go Pro
+# Go
 
 Here I learn the Go language.
 
@@ -14,6 +14,17 @@ Here I learn the Go language.
 - [The Go Programming Language Specification](https://go.dev/ref/spec) - This is the reference manual for the Go programming language.
 - [Effective Go](https://go.dev/doc/effective_go) - This document gives tips for writing clear, idiomatic Go code.
 - [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments).
+
+## Learning Go, Bodner
+
+- Undertanding capacity: [bodner/ch3/example_3_1.go](bodner/ch3/example_3_1.go)
+- Slicing slices: [bodner/ch3/example_3_4.go](bodner/ch3/example_3_4.go)
+- Slices with overlapping storage: [bodner/ch3/example_3_5.go](bodner/ch3/example_3_5.go)
+- `append` makes overlapping slices more confusing: [bodner/ch3/example_3_6.go](bodner/ch3/example_3_6.go)
+- Using `copy`: [bodner/ch3/example_3_6a.go](bodner/ch3/example_3_6a.go)
+- Converting strings to slices: [bodner/ch3/example_3_9.go](bodner/ch3/example_3_9.go)
+- Using a map: [bodner/ch3/example_3_10.go](bodner/ch3/example_3_10.go)
+- Using a map as a set: [bodner/ch3/example_3_11.go](bodner/ch3/example_3_11.go)
 
 ## Compiler commands
 
