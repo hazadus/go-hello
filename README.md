@@ -2,20 +2,22 @@
 
 Here I learn the Go language.
 
-### Two main questions I want to find answers to:
-
-- What it is good for?
-- When it is better than Python?
-
 ## References
 
+- Book: [Learning Go. An Idiomatic Approach to Real-World Go Programming](http://library.hazadus.ru/books/82/details/) by Jon Bodner. O'Reilly, 2021, 374 p.
+	- 🔒 [My Notes](https://github.com/hazadus/Hazadus-Vault/blob/main/Dev/Reading/Learning%20Go%20(Bodner).md)
+	- [Examples](https://github.com/hazadus/go-hello/tree/main/bodner)
 - Book: [Pro Go: The Complete Guide to Programming Reliable and Efficient Software
   Using Golang](https://doi.org/10.1007/978-1-4842-7355-5) by Adam Freeman, ISBN 978-1-4842-7355-5, 2022, 1078 p.
 - [The Go Programming Language Specification](https://go.dev/ref/spec) - This is the reference manual for the Go programming language.
 - [Effective Go](https://go.dev/doc/effective_go) - This document gives tips for writing clear, idiomatic Go code.
 - [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments).
 
-## Learning Go, Bodner
+## Basic Algorithms in Go
+
+- Quicksort: [algorithms/quicksort.go](algorithms/quicksort.go)
+
+## Learning Go, by Jon Bodner
 
 - Undertanding capacity: [bodner/ch3/example_3_1.go](bodner/ch3/example_3_1.go)
 - Slicing slices: [bodner/ch3/example_3_4.go](bodner/ch3/example_3_4.go)
@@ -25,6 +27,13 @@ Here I learn the Go language.
 - Converting strings to slices: [bodner/ch3/example_3_9.go](bodner/ch3/example_3_9.go)
 - Using a map: [bodner/ch3/example_3_10.go](bodner/ch3/example_3_10.go)
 - Using a map as a set: [bodner/ch3/example_3_11.go](bodner/ch3/example_3_11.go)
+- The for-range loop: [bodner/ch4/example_4_13.go](bodner/ch4/example_4_13.go)
+- The `switch` statement: [bodner/ch4/example_4_19.go](bodner/ch4/example_4_19.go)
+- Variadic Input Parameters and Slices, Multiple Return Values: [bodner/ch5/example_5_1.go](bodner/ch5/example_5_1.go)
+- Functions As Values: [bodner/ch5/example_5_2a.go](bodner/ch5/example_5_2a.go)
+- Closures: [bodner/ch5/example_5_2b.go](bodner/ch5/example_5_2b.go)
+
+----
 
 ## Compiler commands
 
