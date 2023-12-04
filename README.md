@@ -32,6 +32,8 @@ Here I learn the Go language.
 - Variadic Input Parameters and Slices, Multiple Return Values: [bodner/ch5/example_5_1.go](bodner/ch5/example_5_1.go)
 - Functions As Values: [bodner/ch5/example_5_2a.go](bodner/ch5/example_5_2a.go)
 - Closures: [bodner/ch5/example_5_2b.go](bodner/ch5/example_5_2b.go)
+- Implementation of a binary tree that takes advantage of `nil` values for the receiver: [bodner/ch7/example_7_a.go](bodner/ch7/example_7_a.go)
+- Using implicit inter‐ faces to compose applications via dependency injection: [bodner/ch7/example_7_b.go](bodner/ch7/example_7_b.go)
 
 ----
 
