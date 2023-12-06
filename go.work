@@ -3,4 +3,5 @@ go 1.19
 use (
 	./basicFeatures
 	./hello
+	./bodner/ch9/package-example
 )
